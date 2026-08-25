@@ -50,8 +50,8 @@
   "tasks": [
     {
       "board": "Mann",
-      "id": "unposted",
-      "taskUrl": "unposted",
+      "id": "01a03b38-b730-738c-8925-0b9612c09d25",
+      "taskUrl": "https://problem.market/tasks/01a03b38-b730-738c-8925-0b9612c09d25",
       "title": "Mann's theorem: Schnirelmann density is superadditive",
       "statementFile": "Mann.lean",
       "theorem": "Mann.mann",
@@ -59,8 +59,8 @@
     },
     {
       "board": "HilbertWaring",
-      "id": "unposted",
-      "taskUrl": "unposted",
+      "id": "01a03b38-fe79-719b-866d-49bdd2aaa2a8",
+      "taskUrl": "https://problem.market/tasks/01a03b38-fe79-719b-866d-49bdd2aaa2a8",
       "title": "The Hilbert–Waring theorem",
       "statementFile": "HilbertWaring.lean",
       "theorem": "HilbertWaring.hilbert_waring",
