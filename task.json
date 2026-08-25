@@ -55,7 +55,7 @@
       "title": "Mann's theorem: Schnirelmann density is superadditive",
       "statementFile": "Mann.lean",
       "theorem": "Mann.mann",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "daeb8a7110a9463c672b8ca3a0659d9c1caa2af7"
     },
     {
       "board": "HilbertWaring",
@@ -64,7 +64,7 @@
       "title": "The Hilbert–Waring theorem",
       "statementFile": "HilbertWaring.lean",
       "theorem": "HilbertWaring.hilbert_waring",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "daeb8a7110a9463c672b8ca3a0659d9c1caa2af7"
     }
   ],
   "submission": {
